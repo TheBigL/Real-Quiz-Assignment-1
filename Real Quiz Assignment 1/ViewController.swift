@@ -45,7 +45,6 @@ class ViewController: UIViewController {
     
     var selectedCategory = ""
     
-    @IBOutlet weak var startButton: UIButton!
     
     @IBOutlet weak var quizDescription: UILabel!
     
